@@ -1,0 +1,5 @@
+in python you can make lists to store items
+in python you can make dictionerys to store key value pairs 
+in python you can use loops and conditionals to control your program
+in python you can make function and classes to orgenize your code
+in python you can access file and use their contents

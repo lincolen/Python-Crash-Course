@@ -1,0 +1,1 @@
+print('"Time is an illusion, \nlunch time doubly so"\n\t Dougles Adams ');

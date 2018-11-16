@@ -1,0 +1,13 @@
+dest=["purag","canada","mars","valhalla"]
+print(dest)
+print(sorted(dest))
+print(dest)
+dest.reverse()
+print(dest)
+dest.reverse()
+print(dest)
+dest.sort()
+print(dest)
+dest.sort(reverse=True)
+print(dest)
+print(len(dest))
